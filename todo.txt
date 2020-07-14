@@ -1,0 +1,11 @@
+-add a script to group similar brands that should ensure enough spacing between brands
+-update the data to store x and y position
+-update the main script to position brands based on x and y position
+
+-add a formatting script to ensure brands names follow the same format e.g. all lower case
+
+-add search functionality
+
+-add an edit ui and functionality
+-add an add ui and functionality
+-add a closest match functionality for adding and searching
