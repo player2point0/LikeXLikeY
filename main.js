@@ -7,13 +7,12 @@ let g = {
 };
 
 //todo group related points
+const JSON_BIN_VERSION = 5;
 
-fetch("data1.json")
-	.then((response) => {
-		console.log(response.json());
-
-		renderGraph(response.json());
-	})
+//edit json : https://jsonbin.io/5f0f4f76918061662842419c/1
+fetch("https://api.jsonbin.io/b/5f0f4f76918061662842419c/" + JSON_BIN_VERSION)
+	.then((response) => response.json())
+	.then((data) => renderGraph(data.data))
 	.catch((error) => console.error(error));
 
 function renderGraph(DATA) {
