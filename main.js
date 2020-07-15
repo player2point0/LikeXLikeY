@@ -7,7 +7,7 @@ let g = {
 };
 
 //todo group related points
-const JSON_BIN_VERSION = 5;
+const JSON_BIN_VERSION = 11;
 
 //edit json : https://jsonbin.io/5f0f4f76918061662842419c/1
 fetch("https://api.jsonbin.io/b/5f0f4f76918061662842419c/" + JSON_BIN_VERSION)
