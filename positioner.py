@@ -8,6 +8,8 @@ with open('data.json') as json_file:
 
 
 
+
+
 # todo add a grid 
 # todo add collison preventiion
 # todo add clustering of brands based on shared connections
@@ -23,8 +25,8 @@ brandIndex = 0
 
 while brandIndex < len(jsonData["data"]):
 
-    brandX = random.random() * 100
-    brandY = random.random() * 100
+    brandX = random.random() * 5
+    brandY = random.random() * 5
 
     #for each brand check if it has coordinates
     #if not position it randomly
@@ -54,8 +56,8 @@ while brandIndex < len(jsonData["data"]):
                 angle = random.random() * 3.14 * 2
                 length = random.random() * 2
                 
-                likeX = length * math.cos(angle)
-                likeY = length * math.sin(angle)
+                likeX = brandX + (length * math.cos(angle))
+                likeY = brandY + (length * math.sin(angle))
 
                 # if not position assign the random polar coordinate
                 if "x" not in jsonData["data"][likeBrandIndex] or "y" not in jsonData["data"][likeBrandIndex] or jsonData["data"][likeBrandIndex]["x"] and jsonData["data"][likeBrandIndex]["y"]:
@@ -64,8 +66,8 @@ while brandIndex < len(jsonData["data"]):
 
                 #else place it half way between the coordinated and the coordinates of the main brand
                 else:
-                    likeX = (jsonData["data"][likeBrandIndex]["x"] + likeX) / 2
-                    likeY = (jsonData["data"][likeBrandIndex]["y"] + likeY) / 2
+                    jsonData["data"][likeBrandIndex]["x"] = (jsonData["data"][likeBrandIndex]["x"] + likeX) / 2
+                    jsonData["data"][likeBrandIndex]["y"] = (jsonData["data"][likeBrandIndex]["y"] + likeY) / 2
         
             likeBrandIndex += 1
         likeIndex += 1
@@ -75,5 +77,5 @@ while brandIndex < len(jsonData["data"]):
 save = input("save changes (y/N): ")
 
 if save == "y":
-    with open('data1.json', 'w') as outfile:
+    with open('positionData.json', 'w') as outfile:
         json.dump(jsonData, outfile)
