@@ -1,10 +1,20 @@
 import json
+import re
+
+
+def cleanName(name):
+    #convert to lowercase
+    lowercaseName = name.lower()
+    #convert '+', '&' to ' and '
+    plusName = lowercaseName.replace('+', ' and ')
+    ampersandName = plusName.replace('&', ' and ')
+    #remove any special characters and excess spaces
+    specialCharName = re.sub(r'\W+', ' ', ampersandName)
+    return specialCharName
 
 #open the json file
 with open('data.json') as json_file:
     jsonData = json.load(json_file)
-
-print(jsonData["data"][0]["name"])
 
 while True:
 

@@ -1,209 +1,209 @@
 {
 	"data": [
 		{
-			"name": "Acne Studios",
+			"name": "acne studios",
 			"url": "https://www.acnestudios.com",
-			"like": ["Our Legacy", "Norse Projects", "APC"]
+			"like": ["our legacy", "norse projects", "apc"]
 		},
-		{ "name": "Our Legacy", "url": "https://www.ourlegacy.se", "like": [] },
+		{ "name": "our legacy", "url": "https://www.ourlegacy.se", "like": [] },
 		{
-			"name": "Norse Projects",
+			"name": "norse projects",
 			"url": "http://norseprojects.com/",
 			"like": []
 		},
 		{
-			"name": "APC",
+			"name": "apc",
 			"url": "https://www.apc.fr/",
 			"like": [
-				"Acne Studios",
-				"Norse Projects",
-				"Maison Kitsune",
-				"BLK DNM",
-				"Our Legacy",
-				"Whyred",
-				"Filippa K",
-				"Hope Sthlm",
-				"A O CMS",
-				"Tres Bien"
+				"acne studios",
+				"norse projects",
+				"maison kitsune",
+				"blk dnm",
+				"our legacy",
+				"whyred",
+				"filippa k",
+				"hope sthlm",
+				"a o cms",
+				"tres bien"
 			]
 		},
 		{
-			"name": "Maison Kitsune",
+			"name": "maison kitsune",
 			"url": "https://maisonkitsune.com/",
 			"like": []
 		},
-		{ "name": "BLK DNM", "url": "https://blkdnm.com/", "like": [] },
-		{ "name": "Whyred", "url": "https://whyred.com/", "like": [] },
-		{ "name": "Filippa K", "url": "https://www.filippa-k.com/", "like": [] },
-		{ "name": "Hope Sthlm", "url": "https://hope-sthlm.com/", "like": [] },
-		{ "name": "A O CMS", "url": "https://www.aocms.com/", "like": [] },
-		{ "name": "Tres Bien", "url": "https://tres-bien.com/", "like": [] },
+		{ "name": "blk dnm", "url": "https://blkdnm.com/", "like": [] },
+		{ "name": "whyred", "url": "https://whyred.com/", "like": [] },
+		{ "name": "filippa k", "url": "https://www.filippa-k.com/", "like": [] },
+		{ "name": "hope sthlm", "url": "https://hope-sthlm.com/", "like": [] },
+		{ "name": "a o cms", "url": "https://www.aocms.com/", "like": [] },
+		{ "name": "tres bien", "url": "https://tres-bien.com/", "like": [] },
 		{
-			"name": "J Crew",
+			"name": "j crew",
 			"url": "https://www.jcrew.com/",
 			"like": [
-				"Gant",
-				"Epaulet",
-				"Club Monaco",
-				"Bonobos",
-				"Massimo Dutti",
-				"Uniqlo",
-				"Brooks Brothers",
-				"J Press",
-				"Polo Ralph Lauren",
-				"Everlane",
-				"Banana Republic",
-				"L L Bean"
+				"gant",
+				"epaulet",
+				"club monaco",
+				"bonobos",
+				"massimo dutti",
+				"uniqlo",
+				"brooks brothers",
+				"j press",
+				"polo ralph lauren",
+				"everlane",
+				"banana republic",
+				"l l bean"
 			]
 		},
-		{ "name": "Gant", "url": "https://www.gant.co.uk/", "like": [] },
-		{ "name": "Epaulet", "url": "https://www.epauletbrand.com/", "like": [] },
-		{ "name": "Club Monaco", "url": "https://www.clubmonaco.com/", "like": [] },
-		{ "name": "Bonobos", "url": "https://bonobos.com/", "like": [] },
+		{ "name": "gant", "url": "https://www.gant.co.uk/", "like": [] },
+		{ "name": "epaulet", "url": "https://www.epauletbrand.com/", "like": [] },
+		{ "name": "club monaco", "url": "https://www.clubmonaco.com/", "like": [] },
+		{ "name": "bonobos", "url": "https://bonobos.com/", "like": [] },
 		{
-			"name": "Massimo Dutti",
+			"name": "massimo dutti",
 			"url": "https://www.massimodutti.com/",
 			"like": []
 		},
-		{ "name": "Uniqlo", "url": "https://www.uniqlo.com/", "like": [] },
+		{ "name": "uniqlo", "url": "https://www.uniqlo.com/", "like": [] },
 		{
-			"name": "Brooks Brothers",
+			"name": "brooks brothers",
 			"url": "https://www.brooksbrothers.com/",
 			"like": []
 		},
-		{ "name": "J Press", "url": "https://jpressonline.com/", "like": [] },
+		{ "name": "j press", "url": "https://jpressonline.com/", "like": [] },
 		{
-			"name": "Polo Ralph Lauren",
+			"name": "polo ralph lauren",
 			"url": "https://www.ralphlauren.co.uk/",
 			"like": []
 		},
-		{ "name": "Everlane", "url": "https://www.everlane.com/", "like": [] },
+		{ "name": "everlane", "url": "https://www.everlane.com/", "like": [] },
 		{
-			"name": "Banana Republic",
+			"name": "banana republic",
 			"url": "https://www.bananarepublic.co.uk/",
 			"like": []
 		},
-		{ "name": "L L Bean", "url": "https://global.llbean.com/", "like": [] },
+		{ "name": "l l bean", "url": "https://global.llbean.com/", "like": [] },
 		{
-			"name": "Outlier",
+			"name": "outlier",
 			"url": "https://outlier.nyc/",
 			"like": [
-				"Swrve",
-				"Aether",
-				"Triple Aught Design",
-				"Mission Workshop",
-				"Arc'teryx",
-				"Veilance",
-				"And Wander",
-				"The North Face Purple Label",
-				"Nanamica",
-				"White Mountaineering"
+				"swrve",
+				"aether",
+				"triple aught design",
+				"mission workshop",
+				"arc teryx",
+				"veilance",
+				"and wander",
+				"the north face purple label",
+				"nanamica",
+				"white mountaineering"
 			]
 		},
 		{
-			"name": "Swrve",
+			"name": "swrve",
 			"url": "https://www.swrve.co.uk/",
 			"like": [
-				"Rapha",
-				"Cadence Collection",
-				"Mash SF",
-				"Giro",
-				"Chrome Industries"
+				"rapha",
+				"cadence collection",
+				"mash sf",
+				"giro",
+				"chrome industries"
 			]
 		},
-		{ "name": "Rapha", "url": "https://www.rapha.cc/", "like": [] },
+		{ "name": "rapha", "url": "https://www.rapha.cc/", "like": [] },
 		{
-			"name": "Cadence Collection",
+			"name": "cadence collection",
 			"url": "https://www.cadencecollection.com/",
 			"like": []
 		},
-		{ "name": "Mash SF", "url": "https://www.mashsf.com/", "like": [] },
-		{ "name": "Giro", "url": "https://www.giro.com/", "like": [] },
+		{ "name": "mash sf", "url": "https://www.mashsf.com/", "like": [] },
+		{ "name": "giro", "url": "https://www.giro.com/", "like": [] },
 		{
-			"name": "Chrome Industries",
+			"name": "chrome industries",
 			"url": "https://www.chromeindustries.com/",
 			"like": []
 		},
-		{ "name": "Aether", "url": "https://www.aetherapparel.com/", "like": [] },
+		{ "name": "aether", "url": "https://www.aetherapparel.com/", "like": [] },
 		{
-			"name": "Triple Aught Design",
+			"name": "triple aught design",
 			"url": "https://tripleaughtdesign.com/",
 			"like": []
 		},
 		{
-			"name": "Mission Workshop",
+			"name": "mission workshop",
 			"url": "https://missionworkshop.com/",
 			"like": []
 		},
-		{ "name": "Arc'teryx", "url": "https://arcteryx.com/", "like": [] },
-		{ "name": "Veilance", "url": "https://www.veilance.com/", "like": [] },
-		{ "name": "And Wander", "url": "https://www.andwander.com/", "like": [] },
-		{ "name": "The North Face Purple Label", "url": "", "like": [] },
-		{ "name": "Nanamica", "url": "https://www.nanamica.com/", "like": [] },
+		{ "name": "arc teryx", "url": "https://arcteryx.com/", "like": [] },
+		{ "name": "veilance", "url": "https://www.veilance.com/", "like": [] },
+		{ "name": "and wander", "url": "https://www.andwander.com/", "like": [] },
+		{ "name": "the north face purple label", "url": "", "like": [] },
+		{ "name": "nanamica", "url": "https://www.nanamica.com/", "like": [] },
 		{
-			"name": "White Mountaineering",
+			"name": "white mountaineering",
 			"url": "http://www.whitemountaineering.com/",
 			"like": []
 		},
 		{
-			"name": "Yohji Yamamoto",
+			"name": "yohji yamamoto",
 			"url": "https://theshopyohjiyamamoto.com/",
 			"like": [
-				"Issey Miyake",
-				"Julian Zigerli",
-				"Comme Des Garcon",
-				"Ann Demeulemeester",
-				"Sacai",
-				"Fumito Ganryu",
-				"Song For The Mute",
-				"Jan-Jan van Essche",
-				"Maurizio Amadei",
-				"Carpe Diem",
-				"Thamanyah",
-				"Carol Christian Poell"
+				"issey miyake",
+				"julian zigerli",
+				"comme des garcon",
+				"ann demeulemeester",
+				"sacai",
+				"fumito ganryu",
+				"song for the mute",
+				"jan jan van essche",
+				"maurizio amadei",
+				"carpe diem",
+				"thamanyah",
+				"carol christian poell"
 			]
 		},
 		{
-			"name": "Issey Miyake",
+			"name": "issey miyake",
 			"url": "https://www.isseymiyake.com/",
 			"like": []
 		},
 		{
-			"name": "Julian Zigerli",
+			"name": "julian zigerli",
 			"url": "https://julianzigerli.com/",
 			"like": []
 		},
 		{
-			"name": "Comme Des Garcon",
+			"name": "comme des garcon",
 			"url": "https://www.cdgcdgcdg.com/",
 			"like": []
 		},
 		{
-			"name": "Ann Demeulemeester",
+			"name": "ann demeulemeester",
 			"url": "https://www.anndemeulemeester.com/",
 			"like": []
 		},
-		{ "name": "Sacai", "url": "http://www.sacai.jp/", "like": [] },
-		{ "name": "Fumito Ganryu", "url": "http://fumitoganryu.jp/", "like": [] },
+		{ "name": "sacai", "url": "http://www.sacai.jp/", "like": [] },
+		{ "name": "fumito ganryu", "url": "http://fumitoganryu.jp/", "like": [] },
 		{
-			"name": "Song For The Mute",
+			"name": "song for the mute",
 			"url": "https://songforthemute.com/",
 			"like": []
 		},
 		{
-			"name": "Jan-Jan van Essche",
+			"name": "jan jan van essche",
 			"url": "https://www.janjanvanessche.com/",
 			"like": []
 		},
 		{
-			"name": "Maurizio Amadei",
+			"name": "maurizio amadei",
 			"url": "https://maurizioamadei.it/",
 			"like": []
 		},
-		{ "name": "Carpe Diem", "url": "", "like": [] },
-		{ "name": "Thamanyah", "url": "https://www.thamanyah.com/", "like": [] },
+		{ "name": "carpe diem", "url": "", "like": [] },
+		{ "name": "thamanyah", "url": "https://www.thamanyah.com/", "like": [] },
 		{
-			"name": "Carol Christian Poell",
+			"name": "carol christian poell",
 			"url": "https://www.carolchristianpoell.com/",
 			"like": []
 		}
