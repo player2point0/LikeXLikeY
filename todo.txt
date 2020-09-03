@@ -1,9 +1,22 @@
+--nice mapping--
+-look into constraint solving algorithms
+-improve positioner to group brands better
+
+-add a closest match functionality for adding and searching
 -add a formatting script to ensure brands names follow the same format e.g. all lower case
 
--add search functionality
+--search--
+-add a search box
+-create a script to search the json file
+-add functionality to move the view to the match
 
+-add/edit--
+-rethink how best to change a json file
+-host the json file somewhere free
+-maybe create a system where changes must be approved first
+-maybe use git for changes
 -add an edit ui and functionality
 -add an add ui and functionality
--add a closest match functionality for adding and searching
 
+--prelaunch--
 -host this sizzle
