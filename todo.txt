@@ -1,3 +1,8 @@
+--get data--
+- https://www.reddit.com/r/malefashionadvice/comments/8bhwkc/if_you_like_x_branddesigner_you_might_also_like_y/
+- https://www.reddit.com/r/malefashionadvice/comments/hcvv0f/if_you_like_x_branddesigner_you_might_also_like_y/?sort=new
+- https://www.reddit.com/r/streetwear/comments/35q7x8/lets_get_a_list_of_rick_owenish_brands/
+
 --nice mapping--
 -look into constraint solving algorithms
 -improve positioner to group brands better
